@@ -1,0 +1,1 @@
+Aluguel: 0.0 Condomínio: 0.0 Energia: 0.0 Internet: 0.0 Consumo: 0.0 Mentimentos: 0.0
